@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SGzFu3JmXyKIvAG10Yxib3WkOh7Rv1oKGnAXlwbe6Rc=",
+  "Source": "Sample-Authentication-UsingJWT",
+  "BasePath": "_content/Sample-Authentication-UsingJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
