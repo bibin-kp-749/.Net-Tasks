@@ -1,0 +1,40 @@
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\appsettings.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\JWT-Based Authentication.exe
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\JWT-Based Authentication.deps.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\JWT-Based Authentication.runtimeconfig.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\JWT-Based Authentication.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\JWT-Based Authentication.pdb
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.AssemblyInfo.cs
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets\msbuild.JWT-Based Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets\msbuild.build.JWT-Based Authentication.props
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWT-Based Authentication.props
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWT-Based Authentication.props
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\scopedcss\bundle\JWT-Based Authentication.styles.css
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Base.215678DF.Up2Date
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\refint\JWT-Based Authentication.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.pdb
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\JWT-Based Authentication.genruntimeconfig.cache
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\obj\Debug\net8.0\ref\JWT-Based Authentication.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New\Desktop\Leetcode\JWT-Based Authentication\JWT-Based Authentication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
