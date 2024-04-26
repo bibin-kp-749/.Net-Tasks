@@ -17,6 +17,7 @@ namespace Sample_Authentication_UsingJWT.Controllers
         {
             _configuration = configuration;
         }
+        
         [AllowAnonymous]
         [HttpPost]
         public IActionResult Auth([FromBody] User user)
@@ -50,7 +51,6 @@ namespace Sample_Authentication_UsingJWT.Controllers
                     var tokenHandler = new JwtSecurityTokenHandler();
                     var token = tokenHandler.CreateToken(tokenDescriptor);
                     var jwtToken = tokenHandler.WriteToken(token);
-
                     return Ok(jwtToken);
                 }
             }
