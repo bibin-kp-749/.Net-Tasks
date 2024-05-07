@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple CRUD in DataView", "Simple CRUD in DataView\Simple CRUD in DataView.csproj", "{60690CE6-E26C-43BE-868A-BEC64EBAB0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60690CE6-E26C-43BE-868A-BEC64EBAB0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60690CE6-E26C-43BE-868A-BEC64EBAB0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60690CE6-E26C-43BE-868A-BEC64EBAB0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60690CE6-E26C-43BE-868A-BEC64EBAB0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AE6B3A4-E76A-420B-A08E-CB85D9B70F92}
+	EndGlobalSection
+EndGlobal
