@@ -4,6 +4,7 @@ namespace Basic_CRUD_Operation.Models
 {
     public class Employee
     {
+        //Model for emloyee 
 
         public int EmployeeId { get; set; }
         [Required]
