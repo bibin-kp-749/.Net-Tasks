@@ -91,10 +91,10 @@ namespace StoreProcedureInDataSetandTable
                 }
             }catch (SqlException ex) //Catching the Sql exception
             {
-                Console.WriteLine("Sql exception Occured"+ex.Message);
+                Console.WriteLine("Sql exception Occured"+ex.Message);//Loging the Sql Exception
             }catch(Exception ex) //Catching the exception
             {
-                Console.WriteLine("Exception Occured", ex.Message);
+                Console.WriteLine("Exception Occured", ex.Message);//Login the exception
             }
         }
     }
