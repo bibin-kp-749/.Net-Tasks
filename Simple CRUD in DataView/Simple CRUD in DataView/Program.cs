@@ -11,8 +11,8 @@ namespace Simple_CRUD_in_DataView
         {
             //creating an instance of Program Class
             Program program = new Program();
-            //program.CreateView("nnn", "kkkk", 21);
-            //program.UpdateView(101, "sreena", "cs", 21);
+            program.CreateView("nnn", "kkkk", 21);
+            program.UpdateView(101, "sreena", "cs", 21);
             program.DeleteView(102);
         }
         //Method for Creating newrow in dataview
