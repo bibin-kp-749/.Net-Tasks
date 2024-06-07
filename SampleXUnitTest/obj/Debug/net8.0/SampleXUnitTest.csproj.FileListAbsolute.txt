@@ -1,0 +1,14 @@
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\bin\Debug\net8.0\SampleXUnitTest.exe
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\bin\Debug\net8.0\SampleXUnitTest.deps.json
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\bin\Debug\net8.0\SampleXUnitTest.runtimeconfig.json
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\bin\Debug\net8.0\SampleXUnitTest.dll
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\bin\Debug\net8.0\SampleXUnitTest.pdb
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.AssemblyInfo.cs
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.dll
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\refint\SampleXUnitTest.dll
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.pdb
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\SampleXUnitTest.genruntimeconfig.cache
+C:\Users\New\Desktop\Leetcode\SampleXUnitTest\SampleXUnitTest\obj\Debug\net8.0\ref\SampleXUnitTest.dll
